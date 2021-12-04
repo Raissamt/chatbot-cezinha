@@ -5,7 +5,7 @@
 <h2> Resumo </h2>
   
   
-O chatbot foi criado para ajudar o grupo de pessoas que atuam no Cesar, que enfrentado algumas dificuldades devido as dúvidas internas em diversos setores. Com o chatbot eles poderam tirar suas dúvidas mais frequentes, e dessa forma não gerar atrasos nas atividades da empresa.
+O chatbot foi criado para ajudar o grupo de pessoas que atuam no Cesar, que estavam enfrentando algumas dificuldades devido as dúvidas internas em diversos setores. Com o chatbot eles poderão tirar suas dúvidas mais frequentes, e dessa forma não gerar atrasos nas atividades da empresa.
   
   <h2> Solução 💡 </h2>
   
